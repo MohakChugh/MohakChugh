@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./portfolio.gif)
+![Hi! I am Mohak Chugh. Check Out My Work!](https://github.com/MohakChugh/MohakChugh/blob/master/portfolio.gif)
